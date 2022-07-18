@@ -1,0 +1,11 @@
+Package: BRACE
+Type: Package
+Title: Bayesian Response Adaptive randomization design for Composite Endpoint (BRACE).
+Version: 1.0
+Date: 2022-07-16
+Author: Zhongying Xu
+Maintainer: Zhongying Xu <xujoine@gmail.com> 
+Description: Some clinical trials have a composite endpoint of both mortality and morbidity, e.g. the endpoint of organ support-free days (OSFD) for sepsis patients admitted to the intensive care units (ICU). The package proposes a Bayesian mixture model to model the composite endpoint of OSFD and implements three response adaptive randomization (RAR) adaptation rules for patient allocation based on the estimated posterior probability from the Bayesian model at the interim analysis. 
+License: GPL (>= 2)
+Depends: MCMCpack, truncnorm
+Imports: MCMCpack, truncnorm
