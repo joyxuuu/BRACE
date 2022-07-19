@@ -9,6 +9,11 @@ library(devtools)
 install_github("https://github.com/joyxuuu/BRACE") 
 ```
 
+## Run the example file example.R
+
+```{R}
+source("example.R")
+```
 
 ## Full tutorial (to be updated)
 
