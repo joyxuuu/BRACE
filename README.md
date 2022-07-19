@@ -12,4 +12,4 @@ install_github("https://github.com/joyxuuu/BRACE")
 
 ## Full tutorial (to be updated)
 
-https://github.com/joyxuuu/BRACE-manual.pdf
+https://github.com/joyxuuu/BRACE/blob/main/BRACE-manual.pdf
