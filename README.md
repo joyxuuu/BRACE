@@ -15,6 +15,6 @@ install_github("https://github.com/joyxuuu/BRACE")
 source("example.R")
 ```
 
-## Full tutorial (to be updated)
+## Package manual (to be updated)
 
 https://github.com/joyxuuu/BRACE/blob/main/BRACE-manual.pdf
